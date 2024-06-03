@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 7822ba3ba6b54244c991af02368b49f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellow_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3892
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a835864a0fd142344b1167d270255fd7
+      internalID: 630535649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_1
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 3892
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fc3d0ba405fae478615079ee1125e7
+      internalID: 1344039023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_2
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 3892
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee6e2db2ee2c5645ae5ccce34014beb
+      internalID: -1665226017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_3
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 3892
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90b9ebd702f0a44b8b5ced7077e670d
+      internalID: -1789988034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_4
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 3892
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea13a7abfe0244eb089395ef588d84
+      internalID: -376042898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3336
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1216890b481c2742b353e06e505d5a8
+      internalID: -208527648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_6
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 3336
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd3da7660cdedb4c92598252e5432bf
+      internalID: -595547794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_7
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 3336
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48daea480deb68146bff8ef79621eb30
+      internalID: 1712537171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_8
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 3336
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6406e790041724eb187875ee6e6935
+      internalID: -1187581661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_9
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 3336
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13250e25bf8a1644b8bef442772dc9ce
+      internalID: -917826314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2780
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270a5bd4d6498084ba06105bff74e129
+      internalID: 90103279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_11
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2780
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c442a6aa702e9ca42a4d4716c3fb8943
+      internalID: 1370358693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2780
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff026c5aea430641b4a296729286814
+      internalID: 365227264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_13
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 2780
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cef7ee4769e1547ae37873c893062c
+      internalID: 757565743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_14
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 2780
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88eb904844b50d4297f0daca3310983
+      internalID: 2020842846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5bfa4944ebd804ba9f3cb7d6dbf2f3
+      internalID: -1812774255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_16
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd8a73e40a26d94baae339abec96781
+      internalID: -2040280920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7824750f981881447bd595609b0cf06b
+      internalID: 1998085696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_18
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360aaa2a0e4401a40aafd6861df79157
+      internalID: 606551054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_19
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ef90201f7ad184ea8caf317cf6673a
+      internalID: 1510525897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a654d05e9d297d54190bbe07659717fb
+      internalID: 709013440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_21
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1f0151bae944147ac2b559fece7056
+      internalID: -1209356252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e2f2306390c7a4087cc2e74019c889
+      internalID: 1360139827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_23
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26c7c22a60492c4ea2be21fd5b5311e
+      internalID: 166622829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_24
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6454a2ce106a9204694c31a452aab1df
+      internalID: -1583980044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea9a6df415f21a499d7793b3bd52904
+      internalID: -2143625005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_26
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa61abecf6cd514d9b591d24e5b199a
+      internalID: 853631814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4cdd8c04c047a41a8dcc573bd0064e
+      internalID: -2027627220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_28
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501157c58b60f0458b249e108fc986e
+      internalID: 749111967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_29
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e03134bfc4e714a84d6d903dd349c0
+      internalID: 1049132565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fccce38cec777c44ab4c30fde721174
+      internalID: -341622011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_31
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10cbfb3c7a41947b6a131bbf7e096a
+      internalID: 983780682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_32
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ed3cfff019034c986b7241677b154
+      internalID: 1526765877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_33
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b69133b379990e429c4fdb4c1258e1c
+      internalID: -21618909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_34
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb5b047f792f4845b1d1c73d7949697
+      internalID: 870337626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c880d15e4588274b9b9d75dcacee4b8
+      internalID: -330126819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_36
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f986d0de2774d418c7e92ecb30c25d
+      internalID: 1354035472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_37
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f013047696022834d98de3d1deeaab2b
+      internalID: 864907230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_38
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721ff801dd617af4a8fc2eae77d439a3
+      internalID: 1453858275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_idle_39
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de9523171ef34b49999b45effff88db
+      internalID: 1999571610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      yellow_idle_0: 630535649
+      yellow_idle_1: 1344039023
+      yellow_idle_10: 90103279
+      yellow_idle_11: 1370358693
+      yellow_idle_12: 365227264
+      yellow_idle_13: 757565743
+      yellow_idle_14: 2020842846
+      yellow_idle_15: -1812774255
+      yellow_idle_16: -2040280920
+      yellow_idle_17: 1998085696
+      yellow_idle_18: 606551054
+      yellow_idle_19: 1510525897
+      yellow_idle_2: -1665226017
+      yellow_idle_20: 709013440
+      yellow_idle_21: -1209356252
+      yellow_idle_22: 1360139827
+      yellow_idle_23: 166622829
+      yellow_idle_24: -1583980044
+      yellow_idle_25: -2143625005
+      yellow_idle_26: 853631814
+      yellow_idle_27: -2027627220
+      yellow_idle_28: 749111967
+      yellow_idle_29: 1049132565
+      yellow_idle_3: -1789988034
+      yellow_idle_30: -341622011
+      yellow_idle_31: 983780682
+      yellow_idle_32: 1526765877
+      yellow_idle_33: -21618909
+      yellow_idle_34: 870337626
+      yellow_idle_35: -330126819
+      yellow_idle_36: 1354035472
+      yellow_idle_37: 864907230
+      yellow_idle_38: 1453858275
+      yellow_idle_39: 1999571610
+      yellow_idle_4: -376042898
+      yellow_idle_5: -208527648
+      yellow_idle_6: -595547794
+      yellow_idle_7: 1712537171
+      yellow_idle_8: -1187581661
+      yellow_idle_9: -917826314
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

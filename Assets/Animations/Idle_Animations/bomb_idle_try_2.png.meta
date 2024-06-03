@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: d6a78d8a3366d4f40950d737256520fb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomb_idle_try_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d1123d0386bb54c8f4483309447357
+      internalID: 2083858485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_1
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2513e0673bb29c48af5b5a851d80dd1
+      internalID: -1443959581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_2
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bd5d50a64a1ea49b4b8507a83ea960
+      internalID: 1060245706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_3
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8b642a7ec9d044ba61c3f1b4f7a4f4
+      internalID: -327167951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_4
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b36332f722ef248940cb331694bb62
+      internalID: 281418260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_5
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cae7def19c0a9499f4987ab4d9ad4f
+      internalID: -138242426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_6
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9db7e65974879141b9e992b4ea415d1
+      internalID: -1240703049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_7
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 2224
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4332633f10d4b54a83dddfd11b302af
+      internalID: -1324311489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42adf52a38bdbce4bb431cc10ea5f80f
+      internalID: -1684395280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_9
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c8c1dca5bb35c4399bbdfe5e245b5b
+      internalID: -1780007943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_10
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8191dfe052b8ecf4cae051a2a8581217
+      internalID: 1293495131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_11
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b4eccfe42a86f4ab074b4391ce7b01
+      internalID: -1908150634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_12
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5563b8d9cc3688409a8a2a4241b5ef3
+      internalID: 403383064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_13
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48838b60b91e784d8b6c971c2c206f3
+      internalID: 1277207550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_14
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb536b64fbdd2648b8c325817d86e82
+      internalID: -1390164745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_15
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 1668
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a9487b8739d364c8a4d291cb45ecf3
+      internalID: -1811480093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3362c793c021bef47a2879852b5a2146
+      internalID: 2031375786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7cbe396efba4942b567a98ca5f1725
+      internalID: 1658281027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_18
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419a5448ae2bb1643b6794a7205b78fa
+      internalID: -70155805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_19
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0188473da7b05794bb66f547ef57ad9c
+      internalID: -912350405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_20
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3989cedd56695c642a121988ef0ee407
+      internalID: 478918870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_21
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f15549802a1dd44942d4161e556f1f
+      internalID: 1310479945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_22
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458dd5a5aa294b842b42f4288ed8f896
+      internalID: 881883836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_23
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 1112
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c32c422a8dd649439b22e9ea6418fc5
+      internalID: -1565826433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126b3f8a69ec704cbe25cb5f44022f2
+      internalID: 600063900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_25
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe5c127742c8ad4cb043f63734afd1e
+      internalID: 859797889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_26
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ccd2e2bf06a69458b64fbf0148b098
+      internalID: 1998438802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_27
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0bc3782d3434f409ea56f9d104629b
+      internalID: 1171473864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_28
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73717147a86b41e4fbba243c48e749e3
+      internalID: 2102538190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_29
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d876d9aa7dca4eb202edf9894bea3
+      internalID: -1492202701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_30
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b8ca07e4bf37f4a87b794026c6c91e
+      internalID: -2084880746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_31
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 556
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad96b7e7158cdbd42937a6bc0250ebf0
+      internalID: -1504878767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5bfb559d0682749a203e13cc8a2b2c
+      internalID: -1078135747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_33
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05650f041a29d5f43b95b7e00356d3c0
+      internalID: 1920279366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_34
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7600506ca4623b14dafbee0177ba6013
+      internalID: 428970663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_35
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bc8dbed226c674b87a6a45e67ebb7e
+      internalID: -1310815523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_36
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a94b38a8bd54454b964ce0f0513542d
+      internalID: 1940446743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_37
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4be55d8b85fba5429876beefd91ef61
+      internalID: 1847440016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_38
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c0dce888a0e84ba64090ea8b43ad4
+      internalID: -2004667082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_idle_try_2_39
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 0
+        width: 763
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9bcd665520cd54f96e3ee0b4176042
+      internalID: -497497974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bomb_idle_try_2_0: 2083858485
+      bomb_idle_try_2_1: -1443959581
+      bomb_idle_try_2_10: 1293495131
+      bomb_idle_try_2_11: -1908150634
+      bomb_idle_try_2_12: 403383064
+      bomb_idle_try_2_13: 1277207550
+      bomb_idle_try_2_14: -1390164745
+      bomb_idle_try_2_15: -1811480093
+      bomb_idle_try_2_16: 2031375786
+      bomb_idle_try_2_17: 1658281027
+      bomb_idle_try_2_18: -70155805
+      bomb_idle_try_2_19: -912350405
+      bomb_idle_try_2_2: 1060245706
+      bomb_idle_try_2_20: 478918870
+      bomb_idle_try_2_21: 1310479945
+      bomb_idle_try_2_22: 881883836
+      bomb_idle_try_2_23: -1565826433
+      bomb_idle_try_2_24: 600063900
+      bomb_idle_try_2_25: 859797889
+      bomb_idle_try_2_26: 1998438802
+      bomb_idle_try_2_27: 1171473864
+      bomb_idle_try_2_28: 2102538190
+      bomb_idle_try_2_29: -1492202701
+      bomb_idle_try_2_3: -327167951
+      bomb_idle_try_2_30: -2084880746
+      bomb_idle_try_2_31: -1504878767
+      bomb_idle_try_2_32: -1078135747
+      bomb_idle_try_2_33: 1920279366
+      bomb_idle_try_2_34: 428970663
+      bomb_idle_try_2_35: -1310815523
+      bomb_idle_try_2_36: 1940446743
+      bomb_idle_try_2_37: 1847440016
+      bomb_idle_try_2_38: -2004667082
+      bomb_idle_try_2_39: -497497974
+      bomb_idle_try_2_4: 281418260
+      bomb_idle_try_2_5: -138242426
+      bomb_idle_try_2_6: -1240703049
+      bomb_idle_try_2_7: -1324311489
+      bomb_idle_try_2_8: -1684395280
+      bomb_idle_try_2_9: -1780007943
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

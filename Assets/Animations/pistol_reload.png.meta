@@ -1,0 +1,2401 @@
+fileFormatVersion: 2
+guid: 221a3a020dba80641967999d695c46ea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pistol_reload_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d744574c60111564686c437078661d42
+      internalID: 1518244950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_1
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71c78fa56b6369479922b595f016a43
+      internalID: -301386752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_2
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4740bcf0f3820747bc02700a7ff3ebd
+      internalID: -553551846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_3
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05063b9a7ec91bf4d89de1773119db66
+      internalID: 1919610077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_4
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32daefcd29e5cf40acebe24e3786867
+      internalID: 550602300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_5
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36ccd58e770674ab252f3a95bea1f2
+      internalID: 452284219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_6
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa3e4abc5e7184ea3b7af601556570
+      internalID: -894038103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_7
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d5ba12ca92a44aad302338a08c838
+      internalID: -704446493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b620d220af58d3f4f907fe9d81550337
+      internalID: 1728076462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_9
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f661fa52c6a06d04a8e43963a1f945e2
+      internalID: 1646882543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_10
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ec4805baceb1141ac8fc55feb45d1f
+      internalID: 1385268031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_11
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14c18ff6b249f04197b67e2d6d911cc
+      internalID: 1815240217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_12
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1276a13eec67844a2458b1aa2f0535
+      internalID: 1923434814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_13
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210dfb507b7456c4591f838110c5ac40
+      internalID: 1591394237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_14
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b4ec6c4f4ccf34a9cb57042ef9f5d1
+      internalID: 419308962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_15
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4b78d5bca2bbc4bb528a7e89bbc9cc
+      internalID: -1654428763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c05f83b3e84944d81ea454d8c29ef6
+      internalID: 1801310644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_17
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc389dbaec20944da5b2809631c061a
+      internalID: -302631829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_18
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25c10b6d2cfb24db79514ec9543cef
+      internalID: 1845671419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_19
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25ddc7d67e819a45842b19478fe97ce
+      internalID: 1162895801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_20
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45aeda13a77a754ebda5a91ad34a67b
+      internalID: -435461965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_21
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb60941590c2cd44a898cb30fad945a
+      internalID: -895823493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_22
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4059f53879d9f584eb75578daffb5622
+      internalID: -498765985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_23
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074fd0be688f90048be9138f93a1bb81
+      internalID: -389948041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f8d6bbadcd56246a0f20c69fee0cde
+      internalID: 1290090482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_25
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aa2be06116ba04183f767f5be45ec1
+      internalID: 1810637557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_26
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdca049a0d82ef4d9363f5b0fcf8ee6
+      internalID: -2008665379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_27
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2618ffd73a27274d8277a29ca746741
+      internalID: 48194205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_28
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24581995f1d040d4a8ecdeb1a72e47bf
+      internalID: 1602870517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_29
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58031c30ff8dd194aa56899fca7abcec
+      internalID: 49489968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_30
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ac49d4188499c4cb48c54bb4a48bb9
+      internalID: -984965814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_31
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f710279eff947e04383f703622b6930e
+      internalID: 141524529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e8002a2a9fd6f4192d07d9b435e9cc
+      internalID: -996000330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_33
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01950a5711da2784cadb501a8a7170c3
+      internalID: 2017647941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_34
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57f290cb7c8ff44c9690774d883b4e0
+      internalID: -1027661946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_35
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa8087a473eb2c4aa5e04d887287a4e
+      internalID: 1407576943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_36
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6dcb91c6362ef4abc683bb413a6c57
+      internalID: -1228468139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_37
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace02de12b14ab1449fc34c84e446035
+      internalID: -1930462288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_38
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf4e176972ef7243a399100237db11d
+      internalID: 661787198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_39
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7d16161b6a72c4d9b2404de0b52e36
+      internalID: -1990436827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de1afb4375559342b2fb307750220fe
+      internalID: 1357398869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_41
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91295a4af8016104dbd7f10c4229f26d
+      internalID: 107550167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_42
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a9857877008864bbf73c996ccbcdba
+      internalID: 765273590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_43
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abd4d2f435763f44b9f94874fc4c06b
+      internalID: -305502093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_44
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487dc17f4d72f9d4bbf271e56a912e5d
+      internalID: 262129081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_45
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb63f3d7f9954e418d7101074dd95e8
+      internalID: -1461175449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_46
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c4757ff13f85941a23b5ed7f066b17
+      internalID: -936959150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_47
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa63e5b9904aea43b82d9929731daf6
+      internalID: 588320279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38d347f47e957d41a0eca9e06046d9a
+      internalID: -406380618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_49
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e2a52eda2e4f941a95d4febac9b0c0
+      internalID: -209444728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_50
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb76dde91b0ea3419e1286e561c33a7
+      internalID: 1920766329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_51
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed48f400d3bd9448569a1575ba9ed1
+      internalID: -1096854161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_52
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142158b77a6907469eac0da328d49b2
+      internalID: 1620170538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_53
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c569a9c69d31ce48b06d96895f6f647
+      internalID: -2063334524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_54
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317b03a5720e5f54a9ed7c61acb9b671
+      internalID: 895505352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_55
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8021f9460258a60479b94095c0e08e09
+      internalID: -1172138817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eca5b74b2c77144fa8821e71b9e80e2
+      internalID: 1874578242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_57
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e376bb6afcfdc4998e63be9567c1f3
+      internalID: 1290285979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_58
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb767263af949349b956b834d8bc4a5
+      internalID: -1229473766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_59
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce437b6efd2901458b71d4cd2d2a675
+      internalID: 354513095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_60
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2eea610a3682f4f961664cd2882bfa
+      internalID: -1173422655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_61
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d785b039141dfb54e932e3a252aec33d
+      internalID: -1599840053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_62
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d0ab6ff32812c458abac9136a17a86
+      internalID: -849104091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_63
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99704973ce8f75c4688b5e0eee8b781b
+      internalID: 1881792793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422d907160986ed458c2cb2d91206a78
+      internalID: 1013315578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_65
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154b462e2ade3b041be6c01f299e3679
+      internalID: -1554427000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_66
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd99c2b63f3ba04abc097ff87a6ed9f
+      internalID: -1146013692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_67
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3924c4d3b160242ae5b8f46839e5ca
+      internalID: -1579540187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_68
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fc278836ab0b04c91cadb2bcd327cb
+      internalID: -1867169949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_69
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f146f25b6babc64bbce09b6e0243c47
+      internalID: -1988252814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_70
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122a0add760702442ab7d2dd96982984
+      internalID: -1263211127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_71
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b7cb9fde6eb564a963986959f4dbee
+      internalID: 260239887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9552b005ad6572e44aaae18c10e3a147
+      internalID: -1272934774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_73
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6968aa13687e4ba4595c69573c9bff2b
+      internalID: 654007946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_74
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce95718aaadf04483f204b3a959774
+      internalID: 500402781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_75
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e1a9c41cd193a4c996e552139518fa
+      internalID: -2032141568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_76
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ece9dfafd3c151459aa4d8eb64a2e8e
+      internalID: 1027249379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_77
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650cc8cb28ebd24dbcced770951ba59
+      internalID: 1145800112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_78
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4033879c38e886b49a0eef50615eda7e
+      internalID: 1173882092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_79
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f4fe307c325d24180125bdd1f4e97b
+      internalID: 1146236938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8441ebc87bcd0f4791460eac67b0b0a
+      internalID: 137640333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_81
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f82922668273014292cafce12ab9ad6
+      internalID: 1118759518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_82
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6401e7c2dd42a4c81bbf1ab9ca4d71
+      internalID: -1690318241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_83
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59da6ec634589184fb25986ae98bd14b
+      internalID: -1447601777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_84
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24acf2a3d4b8b74298df31fb5ff0e32
+      internalID: 1493230444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_85
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6654cc880e00744b4dfec9ae79e1b4
+      internalID: 122567422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_86
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b402392be87eee041a0a1514fba79ea9
+      internalID: 1234820419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_87
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f5a17aed1c4414f86d8da4463eda15
+      internalID: -2014156260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e077ceb4ce5c9439b5ca68268a8184
+      internalID: 178568869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_89
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a786adc5162f5bd4595792165ed8f1ff
+      internalID: -2030790817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_90
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d891289532f8714ab729235dd911080
+      internalID: 779506391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_91
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88dea13ed967f341aa75a44e75a5e2a
+      internalID: -269054116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_92
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d735ef66822217458ff7253e30b6107
+      internalID: -1174171801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_93
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62ea9653f27dcc4fb18c75bcab2034b
+      internalID: -1517323434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_94
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0def92a51111545ac24fecfc0a4155
+      internalID: -2117734222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_95
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04996a74de4830c46ba5aeedae8c33df
+      internalID: 993770905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693989e69b0b3b646a4ba9022900017a
+      internalID: -1108425429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_97
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62f38c076c29b4ea5f82c735966f94
+      internalID: 807544211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_98
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e788114d99ee05e4687d12278d99aa93
+      internalID: -1875049687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_99
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c2ef1a67fb46347a570ebb0183a160
+      internalID: 906720397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_100
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145e2043c921b8e4bb8396ed7140d1be
+      internalID: -1485730055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_101
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475f7a6394569794db9a0d1661b4cd5a
+      internalID: -417078926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pistol_reload_102
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1963a9f0fe1a657449505e70e57ee4d7
+      internalID: -899938088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pistol_reload_0: 1518244950
+      pistol_reload_1: -301386752
+      pistol_reload_10: 1385268031
+      pistol_reload_100: -1485730055
+      pistol_reload_101: -417078926
+      pistol_reload_102: -899938088
+      pistol_reload_11: 1815240217
+      pistol_reload_12: 1923434814
+      pistol_reload_13: 1591394237
+      pistol_reload_14: 419308962
+      pistol_reload_15: -1654428763
+      pistol_reload_16: 1801310644
+      pistol_reload_17: -302631829
+      pistol_reload_18: 1845671419
+      pistol_reload_19: 1162895801
+      pistol_reload_2: -553551846
+      pistol_reload_20: -435461965
+      pistol_reload_21: -895823493
+      pistol_reload_22: -498765985
+      pistol_reload_23: -389948041
+      pistol_reload_24: 1290090482
+      pistol_reload_25: 1810637557
+      pistol_reload_26: -2008665379
+      pistol_reload_27: 48194205
+      pistol_reload_28: 1602870517
+      pistol_reload_29: 49489968
+      pistol_reload_3: 1919610077
+      pistol_reload_30: -984965814
+      pistol_reload_31: 141524529
+      pistol_reload_32: -996000330
+      pistol_reload_33: 2017647941
+      pistol_reload_34: -1027661946
+      pistol_reload_35: 1407576943
+      pistol_reload_36: -1228468139
+      pistol_reload_37: -1930462288
+      pistol_reload_38: 661787198
+      pistol_reload_39: -1990436827
+      pistol_reload_4: 550602300
+      pistol_reload_40: 1357398869
+      pistol_reload_41: 107550167
+      pistol_reload_42: 765273590
+      pistol_reload_43: -305502093
+      pistol_reload_44: 262129081
+      pistol_reload_45: -1461175449
+      pistol_reload_46: -936959150
+      pistol_reload_47: 588320279
+      pistol_reload_48: -406380618
+      pistol_reload_49: -209444728
+      pistol_reload_5: 452284219
+      pistol_reload_50: 1920766329
+      pistol_reload_51: -1096854161
+      pistol_reload_52: 1620170538
+      pistol_reload_53: -2063334524
+      pistol_reload_54: 895505352
+      pistol_reload_55: -1172138817
+      pistol_reload_56: 1874578242
+      pistol_reload_57: 1290285979
+      pistol_reload_58: -1229473766
+      pistol_reload_59: 354513095
+      pistol_reload_6: -894038103
+      pistol_reload_60: -1173422655
+      pistol_reload_61: -1599840053
+      pistol_reload_62: -849104091
+      pistol_reload_63: 1881792793
+      pistol_reload_64: 1013315578
+      pistol_reload_65: -1554427000
+      pistol_reload_66: -1146013692
+      pistol_reload_67: -1579540187
+      pistol_reload_68: -1867169949
+      pistol_reload_69: -1988252814
+      pistol_reload_7: -704446493
+      pistol_reload_70: -1263211127
+      pistol_reload_71: 260239887
+      pistol_reload_72: -1272934774
+      pistol_reload_73: 654007946
+      pistol_reload_74: 500402781
+      pistol_reload_75: -2032141568
+      pistol_reload_76: 1027249379
+      pistol_reload_77: 1145800112
+      pistol_reload_78: 1173882092
+      pistol_reload_79: 1146236938
+      pistol_reload_8: 1728076462
+      pistol_reload_80: 137640333
+      pistol_reload_81: 1118759518
+      pistol_reload_82: -1690318241
+      pistol_reload_83: -1447601777
+      pistol_reload_84: 1493230444
+      pistol_reload_85: 122567422
+      pistol_reload_86: 1234820419
+      pistol_reload_87: -2014156260
+      pistol_reload_88: 178568869
+      pistol_reload_89: -2030790817
+      pistol_reload_9: 1646882543
+      pistol_reload_90: 779506391
+      pistol_reload_91: -269054116
+      pistol_reload_92: -1174171801
+      pistol_reload_93: -1517323434
+      pistol_reload_94: -2117734222
+      pistol_reload_95: 993770905
+      pistol_reload_96: -1108425429
+      pistol_reload_97: 807544211
+      pistol_reload_98: -1875049687
+      pistol_reload_99: 906720397
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

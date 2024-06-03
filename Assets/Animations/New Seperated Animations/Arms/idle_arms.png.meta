@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 051aacc8e605e514db6e7673fbdb4527
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_arms_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2225
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f46e6b419ff3409562261a9d42581
+      internalID: -1421025232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_1
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 2225
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428d9812e2421c648843f38a5793ee86
+      internalID: -854327673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_2
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2225
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8516fd28c3275a84db878b0769a37597
+      internalID: -1268582109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_3
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 2225
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3821452764e37ea4f81b2a7b7b2d6040
+      internalID: 147140813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_4
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 2225
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf07dfac262874391e63a16b07daf7
+      internalID: 146715795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_5
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 2225
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48239f2ceebfbf2418a88908991d5d9f
+      internalID: -724028690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_6
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 2225
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b99fc4164927e4480fa5bb4213d15c
+      internalID: -736704914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_7
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 2225
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff38c451c743f534c857bbedea8c009c
+      internalID: -1454548563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1670
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7f22888d216d240b154146cadfdb45
+      internalID: -1100779770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_9
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1670
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15481b19de7f0448ad14b306930a13a
+      internalID: -684190604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_10
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1670
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c189434cd24ddf43bab8f64b2cbea83
+      internalID: -658720727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_11
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1670
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d9dc9f3226304897bddf907647caa
+      internalID: -1564449735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_12
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 1670
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca3a7a37ada92043a570458da311c99
+      internalID: -1317459004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_13
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 1670
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4abc643769f2844a419b1f6c4586d1
+      internalID: -1834272629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_14
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 1670
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f348393edace7974babec239d4d7df71
+      internalID: 2102648964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_15
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 1670
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2ff6387c547344584e2e21cbe9fca3
+      internalID: 20205456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1115
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53fc9036323d4e4b92776bfab11ea91
+      internalID: 763343247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1115
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eafc2e16c5e09841bcbd2391d05fab1
+      internalID: 1494216729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_18
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1115
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cba20d76ccbe744bd1a846a524818c
+      internalID: -262309985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_19
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1115
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cabf831c3ec9de468d866fc7b2b2000
+      internalID: 1815138751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_20
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 1115
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee399b684244c644b9cbf0ec42ed651
+      internalID: -1529554862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_21
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 1115
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f62c950457a8f42ae980c81afab67f
+      internalID: 1471896626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_22
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 1115
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546f3ab186b764744ba9ec83494c5d21
+      internalID: -875171591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_23
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 1115
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5711ece79c3b164ea2921d38f203ab8
+      internalID: 1949726949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5182262db96b73540af92bdd84fac079
+      internalID: -1143694862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_25
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 560
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dedac00d19a404d824570dc24d83fc
+      internalID: 1638992940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_26
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 560
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcbda36257d3b84db19b6b044444c42
+      internalID: 471033819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_27
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 560
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5952f5a2217bca469e9bc56bc78dd34
+      internalID: 995990225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_28
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 560
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c31b80fe6b6dcb4eaa1b0dc5de82a4b
+      internalID: -1899956740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_29
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 560
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df17137762fd9446839e89502d06bcf
+      internalID: -255816783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_30
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 560
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a05f287d7dc0634daa4ddbb01ba3802
+      internalID: 1417403101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_31
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 560
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8579ac22dae212f49b888ffc1beecb31
+      internalID: 287987833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6053fe85236d9824abec299052d433af
+      internalID: -2071393701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_33
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 5
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c957998f21c8444c8602777e4d24992
+      internalID: 978803257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_34
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 5
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce681468b784a8a40bec96f59d7df14e
+      internalID: 1555287478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_35
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 5
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed24f9a5731ce2e4fa6a30086cfa9eaf
+      internalID: -449532500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_36
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 5
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19a895334c69ac419a89253aff4ffd3
+      internalID: 1510265123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_37
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 5
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4601efbe44e81648b7d5fdf0409d437
+      internalID: -1325513689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_38
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 5
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f603d7314cb540a78f7a73461e478
+      internalID: 1839040779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_arms_39
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 5
+        width: 763
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d484805d7052a4babd7adf6195b133
+      internalID: -43918847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      idle_arms_0: -1421025232
+      idle_arms_1: -854327673
+      idle_arms_10: -658720727
+      idle_arms_11: -1564449735
+      idle_arms_12: -1317459004
+      idle_arms_13: -1834272629
+      idle_arms_14: 2102648964
+      idle_arms_15: 20205456
+      idle_arms_16: 763343247
+      idle_arms_17: 1494216729
+      idle_arms_18: -262309985
+      idle_arms_19: 1815138751
+      idle_arms_2: -1268582109
+      idle_arms_20: -1529554862
+      idle_arms_21: 1471896626
+      idle_arms_22: -875171591
+      idle_arms_23: 1949726949
+      idle_arms_24: -1143694862
+      idle_arms_25: 1638992940
+      idle_arms_26: 471033819
+      idle_arms_27: 995990225
+      idle_arms_28: -1899956740
+      idle_arms_29: -255816783
+      idle_arms_3: 147140813
+      idle_arms_30: 1417403101
+      idle_arms_31: 287987833
+      idle_arms_32: -2071393701
+      idle_arms_33: 978803257
+      idle_arms_34: 1555287478
+      idle_arms_35: -449532500
+      idle_arms_36: 1510265123
+      idle_arms_37: -1325513689
+      idle_arms_38: 1839040779
+      idle_arms_39: -43918847
+      idle_arms_4: 146715795
+      idle_arms_5: -724028690
+      idle_arms_6: -736704914
+      idle_arms_7: -1454548563
+      idle_arms_8: -1100779770
+      idle_arms_9: -684190604
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dab664c3c5100e45b765a15496fcce9, type: 3}
+  m_Name: AK-47
+  m_EditorClassIdentifier: 
+  itemName: AK-47
+  icon: {fileID: 21300000, guid: 54914c30d58186740b074aa7450f6cf7, type: 3}
+  gunTipYOffset: 0
+  useDelay: 0.17
+  bulletCount: 25
+  reusable: 0
+  reloadTime: 0
+  fireAnimation: Auto_Recoil
+  type: 
+  idle_animation: 
+  run_animation: run_arms
+  reload_anim: 
+  GuncolliderOffsetX: -0.66
+  GuncolliderOffsetY: 0.26
+  GunColliderSizeX: 1.012506
+  GunColliderSizeY: 0.1477789
+  bulletPrefab: {fileID: 4701577426562473837, guid: a147b44cee1fb5a439c80de5e52e52bd, type: 3}
+  recoilKB: 1.5
+  hitKb: 0
+  damage: 0
+  shotDelay: 0
+  automatic: 1

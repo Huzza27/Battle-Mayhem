@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3bedc9b2a009534682ae364a6e5c05d, type: 3}
+  m_Name: Katana
+  m_EditorClassIdentifier: 
+  itemName: Katna
+  icon: {fileID: 0}
+  gunTipYOffset: 0
+  useDelay: 0
+  bulletCount: 0
+  reusable: 1
+  reloadTime: 0
+  fireAnimation: Katana_Attack
+  type: 
+  idle_animation: Katana_Idle
+  run_animation: Katana_Run
+  reload_anim: 
+  GuncolliderOffsetX: 0
+  GuncolliderOffsetY: 0
+  GunColliderSizeX: 0
+  GunColliderSizeY: 0
+  hasToBeGrounded: 0
+  damage: 0
+  particles: {fileID: 0}
+  knockbackAmount: 0
+  shotRange: 2
+  hitkb: 0

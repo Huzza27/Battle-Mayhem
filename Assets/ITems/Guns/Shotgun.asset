@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc54b9e3c2157c24faca61cdb3550bcf, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  itemName: 12-Gauge
+  icon: {fileID: 21300000, guid: 29c0b79b905d10443a8254d0161e3031, type: 3}
+  gunTipYOffset: 0.029
+  useDelay: 0.6
+  bulletCount: 6
+  reusable: 0
+  reloadTime: 0
+  fireAnimation: 
+  type: ShotGun
+  idle_animation: shotgun_idle
+  run_animation: run_arms
+  reload_anim: 
+  GuncolliderOffsetX: -0.1391501
+  GuncolliderOffsetY: 0.1248261
+  GunColliderSizeX: 1.057298
+  GunColliderSizeY: 0.09552246
+  damage: 45
+  particles: {fileID: 7114679532061097908, guid: 53dadc311171a6945a4294039c4c7325, type: 3}
+  knockbackAmount: 10
+  shotRange: 2
+  hitkb: 15

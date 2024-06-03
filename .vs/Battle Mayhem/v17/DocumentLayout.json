@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Battle Mayhem\\Battle Mayhem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DCB78A-C6CA-3B38-8D8A-A0291022523D}|Assembly-CSharp.csproj|e:\\battle mayhem\\battle mayhem\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DCB78A-C6CA-3B38-8D8A-A0291022523D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DCB78A-C6CA-3B38-8D8A-A0291022523D}|Assembly-CSharp.csproj|E:\\Battle Mayhem\\Battle Mayhem\\assets\\scripts\\old scripts\\gunmechanicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DCB78A-C6CA-3B38-8D8A-A0291022523D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\old scripts\\gunmechanicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DCB78A-C6CA-3B38-8D8A-A0291022523D}|Assembly-CSharp.csproj|e:\\battle mayhem\\battle mayhem\\assets\\scripts\\old scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DCB78A-C6CA-3B38-8D8A-A0291022523D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\old scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DCB78A-C6CA-3B38-8D8A-A0291022523D}|Assembly-CSharp.csproj|E:\\Battle Mayhem\\Battle Mayhem\\assets\\scripts\\katana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DCB78A-C6CA-3B38-8D8A-A0291022523D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\katana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DCB78A-C6CA-3B38-8D8A-A0291022523D}|Assembly-CSharp.csproj|E:\\Battle Mayhem\\Battle Mayhem\\assets\\scripts\\old scripts\\platformcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DCB78A-C6CA-3B38-8D8A-A0291022523D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\old scripts\\platformcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\Battle Mayhem\\Battle Mayhem\\Assets\\scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Item.cs",
+              "ToolTip": "E:\\Battle Mayhem\\Battle Mayhem\\Assets\\scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\scripts\\Item.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:46:09.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GunMechanicManager.cs",
+              "DocumentMoniker": "E:\\Battle Mayhem\\Battle Mayhem\\Assets\\scripts\\Old Scripts\\GunMechanicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Old Scripts\\GunMechanicManager.cs",
+              "ToolTip": "E:\\Battle Mayhem\\Battle Mayhem\\Assets\\scripts\\Old Scripts\\GunMechanicManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\Old Scripts\\GunMechanicManager.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAmwI8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:27:47.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlatformCollision.cs",
+              "DocumentMoniker": "E:\\Battle Mayhem\\Battle Mayhem\\Assets\\scripts\\Old Scripts\\PlatformCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Old Scripts\\PlatformCollision.cs",
+              "ToolTip": "E:\\Battle Mayhem\\Battle Mayhem\\Assets\\scripts\\Old Scripts\\PlatformCollision.cs",
+              "RelativeToolTip": "Assets\\scripts\\Old Scripts\\PlatformCollision.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:27:02.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Katana.cs",
+              "DocumentMoniker": "E:\\Battle Mayhem\\Battle Mayhem\\Assets\\scripts\\Katana.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Katana.cs",
+              "ToolTip": "E:\\Battle Mayhem\\Battle Mayhem\\Assets\\scripts\\Katana.cs",
+              "RelativeToolTip": "Assets\\scripts\\Katana.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T01:23:30.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "E:\\Battle Mayhem\\Battle Mayhem\\Assets\\scripts\\Old Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Old Scripts\\Movement.cs",
+              "ToolTip": "E:\\Battle Mayhem\\Battle Mayhem\\Assets\\scripts\\Old Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\scripts\\Old Scripts\\Movement.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:31:03.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

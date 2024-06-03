@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dab664c3c5100e45b765a15496fcce9, type: 3}
+  m_Name: Uzi
+  m_EditorClassIdentifier: 
+  itemName: Uzi
+  icon: {fileID: 21300000, guid: 36f4028c0352b294396345038510c897, type: 3}
+  gunTipYOffset: 0.163
+  useDelay: 0.15
+  bulletCount: 20
+  reusable: 0
+  reloadTime: 0
+  fireAnimation: Auto_Recoil
+  type: SemiAuto
+  idle_animation: 
+  run_animation: run_arms
+  reload_anim: 
+  GuncolliderOffsetX: -0.2558594
+  GuncolliderOffsetY: 0.2380358
+  GunColliderSizeX: 0.608366
+  GunColliderSizeY: 0.1917072
+  bulletPrefab: {fileID: 4701577426562473837, guid: a147b44cee1fb5a439c80de5e52e52bd, type: 3}
+  recoilKB: 2
+  hitKb: 4
+  damage: 12
+  shotDelay: 0.2
+  automatic: 1

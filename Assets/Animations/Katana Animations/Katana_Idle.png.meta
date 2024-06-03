@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 1a7761714a5c0e045a63431a1a9b5574
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Katana_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3268
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f5173010a3a0646801d43038e7c90b
+      internalID: 648706249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 3268
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1e51d2f9b5ac44c90d2a605736ceea
+      internalID: -1804854905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 3268
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdba11b520e4ba44c998401911f9d419
+      internalID: -510265316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 3268
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9672b63c906626f4ba8b99483a4480e7
+      internalID: 1256638968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 3268
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da3c399b7ead58498a0493e88b18107
+      internalID: -139978996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 3268
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383db400e5e2d347a61667d7b14ca3c
+      internalID: -1421603745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 5118
+        y: 3268
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0200aabee4b81a488ab3dcc5e54449b
+      internalID: -574786648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 5971
+        y: 3268
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a75e31e15c8164196de09732a626ca
+      internalID: 94195044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2451
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fa0df1df5f797409d7c9afc9fe22ce
+      internalID: -1372616941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2451
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf610a6722223f489e99c5bb5358bef
+      internalID: -444238138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 2451
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c304e525ad2d414a87389b7a6636292
+      internalID: -1867392720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 2451
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867aa1daffa982a4bb82c440704ef698
+      internalID: 27762359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 2451
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465f8866a90ae0b47803ffd74ab2c84a
+      internalID: 2017145305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 2451
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fba21cd3e7a47469f7dca81974d4b6
+      internalID: -473422679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 5118
+        y: 2451
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02a6d1616a884f42882ed032e39ccd5
+      internalID: -547944902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 5971
+        y: 2451
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28786c47cbd88d040af89bde38d150bd
+      internalID: -656398987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1634
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774a57bd41cbf0f4dbc0dc62752890e0
+      internalID: 1361685249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1634
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc91953a4258a24a89d3ae880efe24f
+      internalID: 1775653898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1634
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd52419881abdb44989657bca34db32
+      internalID: 1654166271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 1634
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9fd8ed61bd9504d8a0db52e17163ce
+      internalID: 1661313789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1634
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adbfb92bc4b369459fcbcb9bc02c8f5
+      internalID: -864803537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 1634
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d0baaefb010f84db8fb75445e09775
+      internalID: 243449035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 5118
+        y: 1634
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6082ae611363f2f4098d70dc4e999343
+      internalID: -1359458973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 5971
+        y: 1634
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e2cd2337576b44ca1621ed999eda40
+      internalID: -1032844418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 817
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938b309070e6a1641bf65d2bb494c17b
+      internalID: -679528700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 817
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fecb8dbf94727438871a115f7b0d55
+      internalID: -1167955156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 817
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e329c4d298a65aa43ae648278c6e2031
+      internalID: -149745656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 817
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b2e16bef3dd3a4e87c4e4b64b84b32
+      internalID: 1409330809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 817
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4052ac475a25bd342b9511877da41a35
+      internalID: -171237644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 817
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836f444ac060f994fbbf379813105c64
+      internalID: -2068532594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 5118
+        y: 817
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4848917a085935e4e8f6d6f60a07f21f
+      internalID: -638384254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 5971
+        y: 817
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50dfef2366a77c43bd99c8c6bc01607
+      internalID: -1485029167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb2f85a8a061440a8012263db66761
+      internalID: 1999854878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 0
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c6fd3eb891d924fbace2bb8bfdffa9
+      internalID: 703490340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 0
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121994b3919ba6749a7079f99dc65302
+      internalID: 841769712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 0
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbda407d6c0b84346be32e0cc1bd1798
+      internalID: -288910659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 0
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f4c3f2f6362cc41ad30ec40f7824aa
+      internalID: 1524203359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 0
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f4e4aee550d99448a01b993597df3d
+      internalID: 523846510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 5118
+        y: 0
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c701286a9a4fc540977e92c165de630
+      internalID: 657170533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Katana_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 5971
+        y: 0
+        width: 853
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c878d9c432ffd34c9f17544226ff6a8
+      internalID: 108640141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Katana_Idle_0: 648706249
+      Katana_Idle_1: -1804854905
+      Katana_Idle_10: -1867392720
+      Katana_Idle_11: 27762359
+      Katana_Idle_12: 2017145305
+      Katana_Idle_13: -473422679
+      Katana_Idle_14: -547944902
+      Katana_Idle_15: -656398987
+      Katana_Idle_16: 1361685249
+      Katana_Idle_17: 1775653898
+      Katana_Idle_18: 1654166271
+      Katana_Idle_19: 1661313789
+      Katana_Idle_2: -510265316
+      Katana_Idle_20: -864803537
+      Katana_Idle_21: 243449035
+      Katana_Idle_22: -1359458973
+      Katana_Idle_23: -1032844418
+      Katana_Idle_24: -679528700
+      Katana_Idle_25: -1167955156
+      Katana_Idle_26: -149745656
+      Katana_Idle_27: 1409330809
+      Katana_Idle_28: -171237644
+      Katana_Idle_29: -2068532594
+      Katana_Idle_3: 1256638968
+      Katana_Idle_30: -638384254
+      Katana_Idle_31: -1485029167
+      Katana_Idle_32: 1999854878
+      Katana_Idle_33: 703490340
+      Katana_Idle_34: 841769712
+      Katana_Idle_35: -288910659
+      Katana_Idle_36: 1524203359
+      Katana_Idle_37: 523846510
+      Katana_Idle_38: 657170533
+      Katana_Idle_39: 108640141
+      Katana_Idle_4: -139978996
+      Katana_Idle_5: -1421603745
+      Katana_Idle_6: -574786648
+      Katana_Idle_7: 94195044
+      Katana_Idle_8: -1372616941
+      Katana_Idle_9: -444238138
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

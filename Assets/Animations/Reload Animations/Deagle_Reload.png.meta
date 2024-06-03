@@ -1,0 +1,2401 @@
+fileFormatVersion: 2
+guid: ad24bfdd3baeb344aad1e842dac6258c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deagle_Reload_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa610d2f5a8c3742abb33f69e3b1223
+      internalID: 1565784353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_1
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafa36076ec53be49b8188439340a17a
+      internalID: 604470315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_2
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8165d1c1fafa8cf4594fdde340f25415
+      internalID: -263585886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_3
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a6803bdec65a449ab8443bf04cf704
+      internalID: 530053388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_4
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937b00ed557366747be6bcd00283193f
+      internalID: 748022971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_5
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5566de857fd92c74cadc86b3b210b95f
+      internalID: -1680841615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_6
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6452db38878a1d478978584090f1712
+      internalID: 285395356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_7
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 6672
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55b618dfd4c67e40bd58d80018ad0ed
+      internalID: 1324969622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c586f36077c9c4f999284ad8fa270c
+      internalID: -1887008800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_9
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad33ff65f6885fd43ae59d64c2fa8a81
+      internalID: -907656674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_10
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8dcb7e02690b84087f1a0fcd04eef6
+      internalID: 337043633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_11
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c41b84fbbc518409fd204349efbe89
+      internalID: 1036610035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_12
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5c57e9b2c95ea4ea5346ab3a253827
+      internalID: 616644746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_13
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbe937df24e2ae49b6b1c09dd4acd83
+      internalID: -658176191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_14
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe365fd7ba25d844b09faea2e197161
+      internalID: -2083715977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_15
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 6116
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf705ab3dc640f40b451555a9e28f84
+      internalID: 666252455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64b3c5c23f92234a85f0481bd762259
+      internalID: -2077912425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_17
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9001437f3e3463543a3101332b140c52
+      internalID: -1403525717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_18
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231621d23c4b74e4fa21bc07e341e48a
+      internalID: -1664414740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_19
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6803304fb066f2540911c05c364adfab
+      internalID: 706294078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_20
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ae9689d9d6964e93ed6e1caccc00d
+      internalID: 2053467970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_21
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf980d51972a644ca29beb17661ceef
+      internalID: 1225033477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_22
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86b7cf7095346d49bce9989fc8a8cef
+      internalID: -186870045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_23
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 5560
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea3cba500aa7b4dacfe05b3e4cf9e3
+      internalID: -2068005463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f4a76287704914598fdbd56d2e1d5c
+      internalID: 423792734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_25
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1bb7909409a434dbbc9d5ac103c874
+      internalID: -1739129950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_26
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ebcc937fd31a54fb6df4cf928a7ede
+      internalID: 461604765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_27
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4695833f77aa5a04bbe1efaef6a99a5b
+      internalID: -1771010973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_28
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6ad878a9557e543b9678cd67bfc122
+      internalID: -741803978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_29
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd482b09959c82347bd4caf56746acc2
+      internalID: -260279267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_30
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee5af08a6d18ab409cba9ef39bcbd38
+      internalID: -1804736070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_31
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 5004
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2befc0f42ebbbe4bacabf0592da1e45
+      internalID: 641148505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987b5f55c03230545ae717eb6024d209
+      internalID: -123066618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_33
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2cdab2a3f48ec4f9263dac6429b250
+      internalID: -863384261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_34
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef39b2637d0f2349adf615bfc9b709c
+      internalID: 699547726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_35
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e449aee0c41d33a438c256720708fb32
+      internalID: 462059213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_36
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9113af0b8618744e959afd667e4f258
+      internalID: 429839896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_37
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd96d6dd4db8d1449f98fb61eda4e7d
+      internalID: 1892426252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_38
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841da95ffd248654fbc612aaea35b152
+      internalID: -19203830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_39
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 4448
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ff62f0bedeedc4184c7f29c9ee0082
+      internalID: 249431915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef45f19dd2c25cf48b47b0a656c1688b
+      internalID: 1300329454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_41
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02aade57a592c4469e8755b0c9129a0
+      internalID: 1887726863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_42
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1f816de8a9d01429c34a8fd3cb2e75
+      internalID: -1828929469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_43
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba63d22c4f4760e459c15dbf21fb4576
+      internalID: -716623216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_44
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28ed249f4100c1488756de64d22d7d4
+      internalID: -2083104166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_45
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0498e9b50dd54f8ec725bb646975f
+      internalID: 1526153713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_46
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499b7ce8c18ca4c478fb5d5764e5d5ab
+      internalID: -1974432267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_47
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 3892
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e991150794da60f4f8cd82edf6c03e63
+      internalID: -746374157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9750d3c341cdfb34d8b861faa5d38abc
+      internalID: 1499292778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_49
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fc140bd680b8a4bbbed0521b158e52
+      internalID: -1653572330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_50
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1981848df16ed694e908e8582b5688fc
+      internalID: -1132022074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_51
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ba1df905b96844d9d900aa41590534
+      internalID: 1519794757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_52
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1c46f0fc3d4b942bf16ac8a78c9d7f
+      internalID: -1132612289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_53
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d979041827795489893bac1cfb86ef
+      internalID: -1351307400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_54
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da779775d78b643a8c3b7225c8e0cf
+      internalID: -132331757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_55
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 3336
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80714c4dc58bdea49a07d26e95b4ed1d
+      internalID: -1272295312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84836cd11349d6e49813310be26a6acb
+      internalID: 2068736882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_57
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809289ec465b222479c516af281ab9f2
+      internalID: 643068557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_58
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53d157d74636ec4e8c69e9c3fee635b
+      internalID: 27282388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_59
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6925ca476871940a5990ed95fb6459
+      internalID: 38243834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_60
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dc657bac7e150438f75d8db4ca9757
+      internalID: -1918736681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_61
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2948e1429d8043b90300e47057bcf
+      internalID: -1085139787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_62
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0133b49c4497f254a8b90393970b41ca
+      internalID: 577945039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_63
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 2780
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a4f005edff4694780e64ef3e598a7d
+      internalID: -546774196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1accdace5e6dcf43a82dd92d8e64a70
+      internalID: 877475730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_65
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f5d43bcd0b81c4485cfc0eea72b2bc
+      internalID: -1860672500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_66
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875b7bbbe8c207047bfac697957792b7
+      internalID: -1414230836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_67
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fe3e5c206ef00429afb378c31332fb
+      internalID: -656837960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_68
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c19b8253b36dfa449c3fa8800baceca
+      internalID: 405303570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_69
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e8aea4ec2adb0469d0bacda0b6b4fa
+      internalID: -1601800591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_70
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724fdbb3bff58f342a0da83cbea793ac
+      internalID: -551554223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_71
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 2224
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcc98cb7b63e4440ae67a5d3f6af13a
+      internalID: 84275192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3918e4a1e601cf940979045fefe0fa87
+      internalID: -1702997329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_73
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356c77ed88441f742a7dadf12dfc790f
+      internalID: 175518095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_74
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e9681038309ca4da53b09999734f4a
+      internalID: -57305982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_75
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dd31f8db9c98e429d1b15cccd72ae8
+      internalID: 1944685509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_76
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e927b6c7f336cc644bcc7c41f6b3ee13
+      internalID: 727766898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_77
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4877c2a81ef858b4493a1c819691843d
+      internalID: -1220707736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_78
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dd5d7147b5a76428b7fcc3d823bc5b
+      internalID: 1947482772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_79
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 1668
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d958a9a5de25f464f9ceb83c89a2aa41
+      internalID: 1880864327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d21ae07f83d94f88a4ec6fe4cea80
+      internalID: 414689128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_81
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b59362463061e04b8eb0fee98e1f72c
+      internalID: 2094820040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_82
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38806700f6206d54fac04da6864b9af1
+      internalID: 202923699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_83
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bab2305c5807949abb125cc2658d8a
+      internalID: -1373544033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_84
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28097fa3192a9d64ebf2fa5619b6d2a9
+      internalID: 1260695276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_85
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68558f5244011994a812a18744a8e8d4
+      internalID: -1911978068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_86
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd2eb4b4fa5258479f8dc080e78407d
+      internalID: 867899582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_87
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 1112
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1bcd4b13c41b54abfb3f26a827c387
+      internalID: -855914948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d246ebf3ab0a840906496826fdf8d7
+      internalID: -1241187110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_89
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a62c810b8ba7534ca7d578829e1b1a9
+      internalID: 520668219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_90
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6cec9fe7d130448988478119a3db04
+      internalID: -1193698795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_91
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee5be7c17377a479325eb28d701938
+      internalID: 308911483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_92
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f249c5191b60c842ad6d3b911c588eb
+      internalID: -2058657874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_93
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08876bbf4da0b54c94d3d40a80c4350
+      internalID: -325355611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_94
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969a0c72ce407c9439955d7a95d35aa3
+      internalID: -2080143833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_95
+      rect:
+        serializedVersion: 2
+        x: 7574
+        y: 556
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5357357548029e845947141739cba11d
+      internalID: -608724409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab9d1821c61ad74d9434d4a430ece4f
+      internalID: -1152609831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_97
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c52d684fb9a6a49b9cc1b2bf8c384d
+      internalID: -1377844956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_98
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befae21ca64bb0f44b3592094caf7938
+      internalID: -1553318731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_99
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cb8f697c1ad354694423f4b6bc7d6e
+      internalID: 631101727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_100
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb85a45c0860aed4ca9b98944bc9aeaa
+      internalID: 1339045351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_101
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca7d78b28a703479586d286b3dcea3
+      internalID: 1623473111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deagle_Reload_102
+      rect:
+        serializedVersion: 2
+        x: 6492
+        y: 0
+        width: 1082
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8758e7fbaa4a74f825aa6be3e9504c
+      internalID: 673583769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Deagle_Reload_0: 1565784353
+      Deagle_Reload_1: 604470315
+      Deagle_Reload_10: 337043633
+      Deagle_Reload_100: 1339045351
+      Deagle_Reload_101: 1623473111
+      Deagle_Reload_102: 673583769
+      Deagle_Reload_11: 1036610035
+      Deagle_Reload_12: 616644746
+      Deagle_Reload_13: -658176191
+      Deagle_Reload_14: -2083715977
+      Deagle_Reload_15: 666252455
+      Deagle_Reload_16: -2077912425
+      Deagle_Reload_17: -1403525717
+      Deagle_Reload_18: -1664414740
+      Deagle_Reload_19: 706294078
+      Deagle_Reload_2: -263585886
+      Deagle_Reload_20: 2053467970
+      Deagle_Reload_21: 1225033477
+      Deagle_Reload_22: -186870045
+      Deagle_Reload_23: -2068005463
+      Deagle_Reload_24: 423792734
+      Deagle_Reload_25: -1739129950
+      Deagle_Reload_26: 461604765
+      Deagle_Reload_27: -1771010973
+      Deagle_Reload_28: -741803978
+      Deagle_Reload_29: -260279267
+      Deagle_Reload_3: 530053388
+      Deagle_Reload_30: -1804736070
+      Deagle_Reload_31: 641148505
+      Deagle_Reload_32: -123066618
+      Deagle_Reload_33: -863384261
+      Deagle_Reload_34: 699547726
+      Deagle_Reload_35: 462059213
+      Deagle_Reload_36: 429839896
+      Deagle_Reload_37: 1892426252
+      Deagle_Reload_38: -19203830
+      Deagle_Reload_39: 249431915
+      Deagle_Reload_4: 748022971
+      Deagle_Reload_40: 1300329454
+      Deagle_Reload_41: 1887726863
+      Deagle_Reload_42: -1828929469
+      Deagle_Reload_43: -716623216
+      Deagle_Reload_44: -2083104166
+      Deagle_Reload_45: 1526153713
+      Deagle_Reload_46: -1974432267
+      Deagle_Reload_47: -746374157
+      Deagle_Reload_48: 1499292778
+      Deagle_Reload_49: -1653572330
+      Deagle_Reload_5: -1680841615
+      Deagle_Reload_50: -1132022074
+      Deagle_Reload_51: 1519794757
+      Deagle_Reload_52: -1132612289
+      Deagle_Reload_53: -1351307400
+      Deagle_Reload_54: -132331757
+      Deagle_Reload_55: -1272295312
+      Deagle_Reload_56: 2068736882
+      Deagle_Reload_57: 643068557
+      Deagle_Reload_58: 27282388
+      Deagle_Reload_59: 38243834
+      Deagle_Reload_6: 285395356
+      Deagle_Reload_60: -1918736681
+      Deagle_Reload_61: -1085139787
+      Deagle_Reload_62: 577945039
+      Deagle_Reload_63: -546774196
+      Deagle_Reload_64: 877475730
+      Deagle_Reload_65: -1860672500
+      Deagle_Reload_66: -1414230836
+      Deagle_Reload_67: -656837960
+      Deagle_Reload_68: 405303570
+      Deagle_Reload_69: -1601800591
+      Deagle_Reload_7: 1324969622
+      Deagle_Reload_70: -551554223
+      Deagle_Reload_71: 84275192
+      Deagle_Reload_72: -1702997329
+      Deagle_Reload_73: 175518095
+      Deagle_Reload_74: -57305982
+      Deagle_Reload_75: 1944685509
+      Deagle_Reload_76: 727766898
+      Deagle_Reload_77: -1220707736
+      Deagle_Reload_78: 1947482772
+      Deagle_Reload_79: 1880864327
+      Deagle_Reload_8: -1887008800
+      Deagle_Reload_80: 414689128
+      Deagle_Reload_81: 2094820040
+      Deagle_Reload_82: 202923699
+      Deagle_Reload_83: -1373544033
+      Deagle_Reload_84: 1260695276
+      Deagle_Reload_85: -1911978068
+      Deagle_Reload_86: 867899582
+      Deagle_Reload_87: -855914948
+      Deagle_Reload_88: -1241187110
+      Deagle_Reload_89: 520668219
+      Deagle_Reload_9: -907656674
+      Deagle_Reload_90: -1193698795
+      Deagle_Reload_91: 308911483
+      Deagle_Reload_92: -2058657874
+      Deagle_Reload_93: -325355611
+      Deagle_Reload_94: -2080143833
+      Deagle_Reload_95: -608724409
+      Deagle_Reload_96: -1152609831
+      Deagle_Reload_97: -1377844956
+      Deagle_Reload_98: -1553318731
+      Deagle_Reload_99: 631101727
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

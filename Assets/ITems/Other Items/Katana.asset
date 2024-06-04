@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3bedc9b2a009534682ae364a6e5c05d, type: 3}
   m_Name: Katana
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   itemName: Katana
+=======
+  itemName: Katna
+>>>>>>> d74e5c9 (Initial commit)
   icon: {fileID: 0}
   gunTipYOffset: 0
   useDelay: 0
